@@ -13,7 +13,7 @@ Config.Socials = [
 // Staff list
 Config.Staff = [
     {name: "krebs", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/1055271674775339049/1070431364194775112/dasdadawdasdadwa.png"},
-    {name: "Aaron", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/1055271674775339049/1070430337701777428/GLRP_logo.png"},
+    {name: "Aron", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/1055271674775339049/1070430337701777428/GLRP_logo.png"},
 	{name: "Adam", description: "Owner", color: "#ff0000", image: "https://cdn.discordapp.com/attachments/1055271674775339049/1070430337701777428/GLRP_logo.png"},
 
 
