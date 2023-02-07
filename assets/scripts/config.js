@@ -4,7 +4,7 @@ Config.ServerIP = "glrp.test";
 
 // Social media buttons on the left side
 Config.Socials = [
-    {name: "discord", label: "Discord : https://discord.gg/UgEr77KU5G", description: "Joine dem offiziellen Discord um nichts zu verpassen!", icon: "assets/media/icons/discord.png", link: "https://discord.gg/UgEr77KU5G"},
+    {name: "discord", label: "Discord : https://discord.gg/hMMACquWbG", description: "Joine dem offiziellen Discord um nichts zu verpassen!", icon: "assets/media/icons/discord.png", link: "https://discord.gg/UgEr77KU5G"},
     {name: "tebex", label: "Donations", description: "Über Spenden freuen wir uns! melde dich im Ticket-Tool falls du Spenden willst :)", icon: "assets/media/icons/tebex.png", link: "https://discord.gg/UgEr77KU5G"},
 ];
 
